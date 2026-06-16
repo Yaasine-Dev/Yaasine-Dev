@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Yassine Elkortih 👋
 
-<!--
-**Yaasine-Dev/Yaasine-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at EMSI and Full-Stack Developer passionate about building scalable web applications and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Laravel
+- Symfony
+- Django
+- PHP
+- Python
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Linux
+- VS Code
+- Figma
+
+## Contact
+
+📧 elkortihyassine@gmail.com
+
+💼 Linkedin:Elkortih Yassine
+
+🌍 Casablanca, Morocco
