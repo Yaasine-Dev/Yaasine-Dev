@@ -13,6 +13,8 @@ Currently expanding my skills toward Artificial Intelligence and Machine Learnin
 - Django
 - PHP
 - Python
+- c++
+- java
 
 ### Frontend
 - React.js
