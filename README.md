@@ -15,7 +15,7 @@
 
 
 I'm Yassine Elkortih
-Software Engineering Student at EMSI and Full-Stack Developer passionate about building scalable web applications and solving real-world problems through technology.
+A Software Engineering Student at EMSI and Full-Stack Developer passionate about building scalable web applications and solving real-world problems through technology.
 Currently expanding my skills toward Artificial Intelligence and Machine Learning.
 
 
